@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Dark Pro" GUID="{0024020f-bba3-4365-9ea1-63b23313d509}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="One Dark Pro - No Red" GUID="{0024020f-bba3-4365-9ea1-63b23313d509}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -306,7 +306,7 @@
       </Color>
       <Color Name="CSS Selector">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="CSS Property Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -334,7 +334,7 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -634,11 +634,11 @@
       </Color>
       <Color Name="RazorTagHelperAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="RazorTagHelperElement">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="HtmlClientTemplateValueFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -646,7 +646,7 @@
       </Color>
       <Color Name="JSON Property Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="Knockout Region">
         <Background Type="CT_RAW" Source="FF4B4B4B" />
@@ -922,15 +922,15 @@
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="CppParameterSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -954,7 +954,7 @@
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -962,7 +962,7 @@
       </Color>
       <Color Name="CppStaticMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="CppPropertySemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1138,11 +1138,11 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8567,7 +8567,7 @@
       </Color>
       <Color Name="XAML Markup Extension Parameter Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8587,7 +8587,7 @@
       </Color>
       <Color Name="XML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="XML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8695,7 +8695,7 @@
       </Color>
       <Color Name="Smart Tag">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="Track Changes before save">
         <Background Type="CT_RAW" Source="FF88BC19" />
@@ -8715,7 +8715,7 @@
       </Color>
       <Color Name="Definition Window Current Match">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="Warning Lines Path">
         <Background Type="CT_RAW" Source="FFD19A66" />
@@ -8739,7 +8739,7 @@
       </Color>
       <Color Name="Tracepoint - Mapped (Enabled)">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="Tracepoint (Disabled)">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8775,7 +8775,7 @@
       </Color>
       <Color Name="Tracepoint (Enabled)">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="Breakpoint - Advanced (Warning)">
         <Background Type="CT_RAW" Source="FF8C2F2F" />
